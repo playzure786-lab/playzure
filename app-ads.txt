@@ -4,6 +4,10 @@ Last Update 15-Feb-26
 ##Admob
 google.com, pub-3106456286235234, DIRECT, f08c47fec0942fa0
 
+##Pangle
+pangleglobal.com, 5036119, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
 ## Liftoff
 vungle.com,6928a1d4780aef75b0059f50,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
